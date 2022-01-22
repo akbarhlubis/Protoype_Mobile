@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/fill_btn.xml" value="0.22447916666666667" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/ic_more_square.xml" value="0.22447916666666667" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/ic_rec_bg.xml" value="0.16574074074074074" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/rectangle_bg.xml" value="0.16574074074074074" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/rounded_corner_btn.xml" value="0.22447916666666667" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/stroke_corner_btn.xml" value="0.22447916666666667" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/stroke_shape.xml" value="0.22447916666666667" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/drawable/stroke_shape_long.xml" value="0.22447916666666667" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/layout/activity_form_data.xml" value="0.22" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/layout/activity_list_item.xml" value="0.33" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/layout/fragment_pemasukan.xml" value="0.2" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/layout/fragment_pengeluaran.xml" value="0.25" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/Backup HDD/Perkuliahan/Semester 5/Pemrograman Mobile/cuanKu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.115625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
